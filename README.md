@@ -23,6 +23,7 @@
 * [Prerequisites](#prerequisites)
 * [Objective](#objective)
 * [Getting Started](#getting-started)
+* [Live Version](#live-version)
 * [Roadmap](#roadmap)
 * [License](#license)
 * [Contact](#contact)
@@ -58,6 +59,10 @@ This project was built using Vue.js
 - Run **npm install** to install dependencies
 
 - Run npm serve to fire the development server
+
+## Live Version
+
+- You can view the live version [Here](https://peaceful-woodland-49630.herokuapp.com/)
 
 
 <!-- ROADMAP -->
